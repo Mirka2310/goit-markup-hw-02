@@ -72,7 +72,7 @@ a {
 .header-contacts-communication {
 }
 
-.header-contacts-adr:hover,
+.header-contacts-communication:hover,
 .header-contacts-adr:focus {
   color: #404bbf;
 }
