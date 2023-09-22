@@ -17,7 +17,6 @@ a {
 .header-navigation {
 }
 .header-navigation-logo-web {
-  height: 24px;
   flex-shrink: 0;
   color: #4d5ae5;
   font-family: "Raleway", sans-serif;
@@ -63,21 +62,21 @@ a {
 }
 .header-contacts-content {
 }
-.header-contacts-adr {
+.header-contacts-communication {
   color: #434455;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+.header-contacts-communication {
 }
 
-.header-contacts-tel {
-  color: #434455;
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
+.header-contacts-adr:hover,
+.header-contacts-adr:focus {
+  color: #404bbf;
 }
+
 /** =========first========== */
 
 .first {
